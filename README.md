@@ -17,6 +17,6 @@
   - Start the server:
     - WAMP:   `(install location)/wamp/wampmanager.exe`
     - XAMPP:  `(install location)/xampp-control.exe`
-  - Open Browser and navigate to `http://localhost/Sample_PHP_Project`
+  - Open Browser and navigate to `http://localhost/Sample_PHP_Project/a_login_form.php`
   - User Name - 'ABC'
   - Password - '12345'
